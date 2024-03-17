@@ -9,6 +9,12 @@ media
 # Ignoring the environment directory for this project
 /django_feedback_env
 
+# Ignoring the images uploaded within the file directories
+temp/*
+/temp/*
+uploads/*
+/uploads/*
+
 # Backup files #
 *.bak
 
